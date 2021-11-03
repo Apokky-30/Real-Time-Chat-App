@@ -1,5 +1,5 @@
 # Real-Time-Chat-App
-Build and create your own real-time chat web/app using Node.js and Socket.io !!
+Build and create your own real-time chat web/app using Javascript and Node.js !!
 
 ## Prerequisites:
 - [Install node.js](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
