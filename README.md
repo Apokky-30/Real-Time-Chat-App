@@ -9,7 +9,7 @@ Build and create your own real-time chat web/app using Javascript and Node.js !!
 
 ## Setup for first-time users:
 ### 1. Clone app
-```$ git clone git@github.com:aditya28sarin/Chat-Application.git```
+```$ git clone https://github.com/Apokky-30/Real-Time-Chat-App.git```
 ### 2. Move in directory
 ```$ cd Chat-Application```
 ### 3. Install node packages
